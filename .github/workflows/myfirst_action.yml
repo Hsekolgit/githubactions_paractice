@@ -1,6 +1,7 @@
 name: myfirstgithubaction
 on:
-  push
+  push:
+    branches: [main]
  
 jobs:
   first_job:
