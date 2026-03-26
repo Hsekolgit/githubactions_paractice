@@ -1,4 +1,5 @@
 name: myfirstgithubaction
+run-name: myworkflow
 on:
   push:
     branches: [main]
