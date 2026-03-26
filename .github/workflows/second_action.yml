@@ -1,4 +1,5 @@
 name: My Awesome App
+run-name: mysecond_action_job
 on: 
   push:
     branches:
