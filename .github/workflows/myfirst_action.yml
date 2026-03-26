@@ -4,7 +4,7 @@ on:
  
 jobs:
   first_job:
-    runs-on: ubuntu:latest
+    runs-on: ubuntu-latest
     steps:
       - name: welcomejob
         run: echo "My first job"
